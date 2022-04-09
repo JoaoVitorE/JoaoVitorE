@@ -64,6 +64,6 @@
 
 <h3 align="left">:rocket: Estatísticas do Git:</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitore&layout=compact&theme=chartreuse-dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitore&layout=compact&theme=swift&title_color=F05338">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitore&show_icons=true&theme=chartreuse-dark&locale=pt-br&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitore&show_icons=true&theme=swift&locale=pt-br&layout=compact&title_color=F05338">
