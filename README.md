@@ -4,7 +4,7 @@
 
 <h3 align="left">:frowning_man: Um Pouco sobre mim:</h3>
 
-<p align="left"> :books: Atualmente estou graduando em Análise e desenvolvimento de sistemas pela UNIFEOB</p>
+<p align="left"> :books: Atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UNIFEOB</p>
 
 <hr>
 
