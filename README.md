@@ -64,6 +64,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/JoaoVitorE/JoaoVitorE/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/JoaoVitorE/blob/output/snake.svg" alt="Snake animation" />
 
 ###
