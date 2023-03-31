@@ -6,10 +6,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoVitorE.JoaoVitorE&left_text=Profile views"  />
-</div>
-
 ###
 
 <h2 align="left">Um pouco sobre mim</h2>
