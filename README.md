@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sou análista e desenvolvedor de sistema e Cientista da Computação.</p>
+<p align="left">Sou Cientista da Computação.</p>
 
 ###
 
